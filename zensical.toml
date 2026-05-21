@@ -53,7 +53,7 @@ nav = [
   { "Troubleshooting" = [
     { "Components" = "components.md" },
     { "Unit Tests" = "unittests.md" }
-  ] }
+  ] },
   { "Resources" = [
     { "Firmware" = "firmware.md" },
     { "Hardware" = "hardware.md" }
