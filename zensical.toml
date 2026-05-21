@@ -49,10 +49,14 @@ Copyright &copy; 2026 The authors
 nav = [
   { "Get Started" = "index.md" },
   { "Build Guide" = "buildguide.md" },
-  { "Repair" = "repair.md" },
-  { "Development" = [
+  { "Repair Guide" = "repair.md" },
+  { "Troubleshooting" = [
     { "Components" = "components.md" },
     { "Unit Tests" = "unittests.md" }
+  ] }
+  { "Resources" = [
+    { "Firmware" = "firmware.md" },
+    { "Hardware" = "hardware.md" }
   ] }
 ]
 
