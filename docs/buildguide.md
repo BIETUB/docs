@@ -1,5 +1,5 @@
 ---
-icon: lucide/flask-conical
+icon: lucide/hammer
 ---
 
 # Build Guide
