@@ -1,5 +1,5 @@
 ---
-icon: lucide/shipit
+icon: lucide/flask-conical
 ---
 
 # Build Guide
