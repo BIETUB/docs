@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Build output
+site/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Node (if ever used)
+node_modules/
+
+# Temporary files
+*.tmp
+*.swp
