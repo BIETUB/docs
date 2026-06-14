@@ -1,0 +1,41 @@
+/* ==========================================================================
+/* ==========================================================================
+   CUSTOM FONT
+   ========================================================================== */
+
+@font-face {
+  font-family: "Noto Sans Ikea";
+  src: url("../assets/fonts/Noto-sans-ikea-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Noto Sans Ikea";
+  src: url("../assets/fonts/Noto-sans-ikea-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+:root {
+  --md-text-font: "Noto Sans Ikea";
+  --md-code-font: "Noto Sans Mono";
+}
+
+
+/* ==========================================================================
+   BRAND COLOURS
+   ========================================================================== */
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #007CC1;
+  --md-accent-fg-color: #0057AD;
+  --md-accent-fg-color--transparent : #0057AD18;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #111827;
+  --md-accent-fg-color: #FBDA0C;
+  --md-accent-fg-color--transparent : #FBDA0C20;
+}
+
