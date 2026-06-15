@@ -44,12 +44,9 @@ Short description of what this module does:
 ### Sensing Module Components
 
 #### Electronics
-- [ ] MCU / SBC: [name]
-- [ ] Sensor 1: [name]
-- [ ] Sensor 2: [name]
-- [ ] PCB: [link or version]
-- [ ] Connectors: [type]
-
+- [ ] Microcontroller: [ESP32 S2 Mini](../components/#esp32-s2-mini)
+- [ ] Primary Sensor: [Sensirion SEN66 + Breakout](../components/#sensirion-sen66-sin-t)
+- [ ] 40mm fan: [Noctua NF-A4x10](../components/#noctua-nf-a4x10-5v)
 
 
 

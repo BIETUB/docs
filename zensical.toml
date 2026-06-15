@@ -51,8 +51,8 @@ nav = [
   { "Build Guide" = "buildguide.md" },
   { "Repair Guide" = "repair.md" },
   { "Troubleshooting" = [
-    { "Components" = "components.md" },
-    { "Unit Tests" = "unittests.md" }
+    { "Unit Tests" = "unittests.md" },
+    { "Components" = "components.md" }
   ] },
   { "Resources" = [
     { "Firmware" = "firmware.md" },

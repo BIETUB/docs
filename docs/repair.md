@@ -6,7 +6,9 @@ icon: lucide/wrench
 
 
 ## Overview
+Dissasembly and common hardware issues adressed module-by-module, jump to the part that is most relevant to you
 
+> Unknown issues? try a [unit test](../unittests)
 
 ---
 
