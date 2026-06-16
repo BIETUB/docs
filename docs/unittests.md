@@ -25,6 +25,7 @@ VOC:   99.00   | NOx:    1.00   | CO2: 4 ppm
 -----------------------------------
 [AQI] 2.36 (2) | Worst: CO2
 [Diffuser Task] Seesaw not found on I2C! Retrying in 2s...
+[Sensor Task] Warming up
 ```
 
 ---
