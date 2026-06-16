@@ -18,7 +18,13 @@ icon: lucide/construction
 ### Serial Output
 
 ```
-code block of what the serial output is like
+--- Current Environmental State ---
+PM1.0:  1.20 | PM2.5:  2.50 | PM10:  4.10 µg/m³
+Temp:  23.07°C | Hum:   45.41% 
+VOC:   99.00   | NOx:    1.00   | CO2: 4 ppm
+-----------------------------------
+[AQI] 2.36 (2) | Worst: CO2
+[Diffuser Task] Seesaw not found on I2C! Retrying in 2s...
 ```
 
 ---
